@@ -1,0 +1,6 @@
+[submodule "100xdevsHackathon"]
+	path = 100xdevsHackathon
+	url = git@github.com:KrishRathor/100xdevsHackathon.git
+[submodule "prreview"]
+	path = prreview
+	url = git@github.com:KrishRathor/prreview.git
